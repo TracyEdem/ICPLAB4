@@ -1,7 +1,7 @@
 #ifndef SPHERICALBLOCKS_H
 #define SPHERICALBLOCKS_H
 
-#include "/home/tracy/projects/LAB4/cuboidBlocks.h"
+#include "cuboidBlocks.h"
 
 
 class sphericalBlocks : public cuboidBlocks
