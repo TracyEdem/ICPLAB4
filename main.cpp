@@ -1,7 +1,7 @@
-#include "/home/tracy/projects/LAB4/rectBlocks.h"
-#include "/home/tracy/projects/LAB4/sqrBaseRectBlocks.h"
-#include "/home/tracy/projects/LAB4/sphericalBlocks.h"
-#include "/home/tracy/projects/LAB4/cylindricalBlocks.h"
+#include "rectBlocks.h"
+#include "sqrBaseRectBlocks.h"
+#include "sphericalBlocks.h"
+#include "cylindricalBlocks.h"
 #include <iostream>
 #include <vector>
 #include <string>
