@@ -1,7 +1,7 @@
 #ifndef SQRBASERECTBLOCKS_H
 #define SQRBASERECTBLOCKS_H
 
-#include "/home/tracy/projects/LAB4/rectBlocks.h"
+#include "rectBlocks.h"
 
 
 
