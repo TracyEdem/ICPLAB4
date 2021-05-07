@@ -1,4 +1,4 @@
-#include "/home/tracy/projects/LAB4/cuboidBlocks.h"
+#include "cuboidBlocks.h"
 
 
 void cuboidBlocks::set_values(int a)
