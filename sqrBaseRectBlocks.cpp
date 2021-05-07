@@ -1,4 +1,4 @@
-#include "/home/tracy/projects/LAB4/sqrBaseRectBlocks.h"
+#include "sqrBaseRectBlocks.h"
 
 
 using namespace std;
