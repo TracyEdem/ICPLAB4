@@ -1,4 +1,4 @@
-#include "/home/tracy/projects/LAB4/rectBlocks.h"
+#include "rectBlocks.h"
 #include <iostream>
 
 using namespace std;
