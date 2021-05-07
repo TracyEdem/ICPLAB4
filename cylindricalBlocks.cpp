@@ -1,4 +1,4 @@
-#include "/home/tracy/projects/LAB4/cylindricalBlocks.h"
+#include "cylindricalBlocks.h"
 #include <math.h>
 
 void cylindricalBlocks::set_values(int a,int b)
