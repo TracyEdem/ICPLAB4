@@ -1,7 +1,7 @@
 #ifndef CUBOIDBLOCKS_H
 #define CUBOIDBLOCKS_H
 
-#include "/home/tracy/projects/LAB4/sqrBaseRectBlocks.h"
+#include "sqrBaseRectBlocks.h"
 
 
 class cuboidBlocks : public sqrBaseRectBlocks
