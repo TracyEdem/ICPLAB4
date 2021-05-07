@@ -1,4 +1,4 @@
-#include "/home/tracy/projects/LAB4/sphericalBlocks.h"
+#include "sphericalBlocks.h"
 #include <math.h>
 
 void sphericalBlocks::set_values(int a)
