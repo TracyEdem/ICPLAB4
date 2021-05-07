@@ -1,7 +1,7 @@
 #ifndef CYLINDRICALBLOCKS_H
 #define CYLINDRICALBLOCKS_H
 
-#include "/home/tracy/projects/LAB4/sqrBaseRectBlocks.h"
+#include "sqrBaseRectBlocks.h"
 
 
 
